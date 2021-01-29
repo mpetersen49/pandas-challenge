@@ -2,7 +2,8 @@
 
 ### File Contents:
 
-- **PyCitySchools.ipynb:** jupyter notebook file for analyzing school and student data.
+- **PyCitySchools.ipynb** 
+  - jupyter notebook file for analyzing school and student data.
 
 ### Description of Code:
 
