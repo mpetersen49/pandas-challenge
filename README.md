@@ -1,10 +1,10 @@
 # pandas-challenge
 
-## File Contents:
+### File Contents:
 
 - **PyCitySchools.ipynb:** jupyter notebook file for analyzing school and student data
 
-## Description of Code:
+### Description of Code:
 
 - Notebook reads data from two csv files (schools_complete.csv & students_complete.csv).
 
